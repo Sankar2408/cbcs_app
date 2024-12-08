@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/cbcs_app/static/css/main.38877676.css",
+    "main.js": "/cbcs_app/static/js/main.0bbee2ef.js",
+    "static/js/239.580f1a02.chunk.js": "/cbcs_app/static/js/239.580f1a02.chunk.js",
+    "static/js/213.0f3a71e5.chunk.js": "/cbcs_app/static/js/213.0f3a71e5.chunk.js",
+    "static/js/732.88e9fcec.chunk.js": "/cbcs_app/static/js/732.88e9fcec.chunk.js",
+    "static/media/nec.jpg": "/cbcs_app/static/media/nec.8c6a04c3c85e2c83c410.jpg",
+    "index.html": "/cbcs_app/index.html",
+    "main.38877676.css.map": "/cbcs_app/static/css/main.38877676.css.map",
+    "main.0bbee2ef.js.map": "/cbcs_app/static/js/main.0bbee2ef.js.map",
+    "239.580f1a02.chunk.js.map": "/cbcs_app/static/js/239.580f1a02.chunk.js.map",
+    "213.0f3a71e5.chunk.js.map": "/cbcs_app/static/js/213.0f3a71e5.chunk.js.map",
+    "732.88e9fcec.chunk.js.map": "/cbcs_app/static/js/732.88e9fcec.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.38877676.css",
+    "static/js/main.0bbee2ef.js"
+  ]
+}
